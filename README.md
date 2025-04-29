@@ -1,2 +1,2 @@
 # R
-R code practice
+R code practice on Google Colab
